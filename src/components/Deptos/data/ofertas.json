@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "image": "/oferta1.jpg",
+      "title": "Oferta Especial Playa",
+      "description": "Disfruta de un descuento en nuestro apartamento con vista al mar.",
+      "originalPrice": "150",
+      "discountedPrice": "120"
+    },
+    {
+      "id": 2,
+      "image": "/oferta2.jpg",
+      "title": "Escapada de Montaña",
+      "description": "Ofrecemos una oferta especial para nuestra escapada tranquila en la montaña.",
+      "originalPrice": "120",
+      "discountedPrice": "100"
+    },
+    {
+      "id": 3,
+      "image": "/oferta3.jpg",
+      "title": "Encanto Junto al Río",
+      "description": "Descuento en nuestro encantador apartamento junto al río.",
+      "originalPrice": "140",
+      "discountedPrice": "120"
+    },
+    {
+      "id": 4,
+      "image": "/oferta4.jpg",
+      "title": "Lugar Histórico",
+      "description": "Oferta especial en un apartamento en un lugar histórico con mucho encanto.",
+      "originalPrice": "180",
+      "discountedPrice": "150"
+    }
+  ]
+  

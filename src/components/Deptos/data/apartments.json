@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "/ejemplo.jpg",
+    "title": "Apartamento Playa",
+    "description": "Cómodo apartamento con vista al mar.",
+    "price": "$120 por noche",
+    "rating": 4,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/ejemplo2.jpg",
+    "title": "Apartamento Centro",
+    "description": "Moderno apartamento en el corazón de la ciudad.",
+    "price": "$150 por noche",
+    "rating": 5,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/ejemplo3.jpg",
+    "title": "Apartamento Montañas",
+    "description": "Escapada tranquila en la montaña.",
+    "price": "$100 por noche",
+    "rating": 3,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/ejemplo4.jpg",
+    "title": "Apartamento Río",
+    "description": "Encantador apartamento junto al río.",
+    "price": "$130 por noche",
+    "rating": 4,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+
+  {
+    "id": 6,
+    "image": "/ejemplo6.jpg",
+    "title": "Apartamento Moderno",
+    "description": "Apartamento con diseño moderno y elegante.",
+    "price": "$140 por noche",
+    "rating": 4,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/ejemplo7.jpg",
+    "title": "Apartamento Rural",
+    "description": "Apartamento en una zona rural con vistas naturales.",
+    "price": "$110 por noche",
+    "rating": 3,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/ejemplo8.jpg",
+    "title": "Apartamento Urbano",
+    "description": "Apartamento en el centro de la ciudad con todas las comodidades.",
+    "price": "$155 por noche",
+    "rating": 4,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "/ejemplo9.jpg",
+    "title": "Apartamento Lujo",
+    "description": "Apartamento de lujo con todas las comodidades.",
+    "price": "$200 por noche",
+    "rating": 5,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 10,
+    "image": "/ejemplo10.webp",
+    "title": "Apartamento Familiar",
+    "description": "Espacioso apartamento ideal para familias.",
+    "price": "$170 por noche",
+    "rating": 4,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 11,
+    "image": "/ejemplo11.webp",
+    "title": "Apartamento Estudio",
+    "description": "Estudio compacto y bien equipado.",
+    "price": "$90 por noche",
+    "rating": 3,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  {
+    "id": 12,
+    "image": "/ejemplo12.webp",
+    "title": "Apartamento Penthouse",
+    "description": "Ático con vistas panorámicas y lujo.",
+    "price": "$250 por noche",
+    "rating": 5,
+    "additionalImages": [
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300",
+      "https://via.placeholder.com/400x300"
+    ]
+  }
+]
